@@ -2,6 +2,15 @@
 
 A professional web application for rainwater harvesting system assessment and design recommendations.
 
+**Built by Team Aether Spark for GDG 2025**
+
+## Team Members
+
+- Lakshya Pandey
+- Prince Gupta
+- Md.Aas
+- Akrity
+
 ## Features
 
 - **Multi-language Support**: English, Hindi, and Tamil
