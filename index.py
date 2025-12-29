@@ -917,7 +917,7 @@ st.markdown(f"""
                 <div class="stat-label">{T('stat_team_members')}</div>
             </div>
             <div class="stat-box">
-                <div class="stat-number">{T('stat_sih_year')}</div>
+                <div class="stat-number">{T('stat_gdg_year')}</div>
                 <div class="stat-label">{T('stat_year_2025')}</div>
             </div>
             <div class="stat-box">
