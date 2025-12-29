@@ -856,7 +856,7 @@ st.markdown(f"""
             <div class="stat-label" style="color: rgba(255,255,255,0.8); font-size: 1rem; font-weight: 600; line-height: 1.4;">{T('stat_system_types')}<br><span style="font-size: 0.875rem; font-weight: 400; opacity: 0.9;">{T('stat_system_subtitle')}</span></div>
         </div>
         <div style="text-align: center; padding: 2rem; background: rgba(255,255,255,0.06); border-radius: 20px; border: 1px solid rgba(255,255,255,0.12); transition: all 0.3s ease; cursor: pointer; flex: 1; min-width: 240px; max-width: 320px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);" onmouseover="this.style.transform='translateY(-8px)'; this.style.background='rgba(255,255,255,0.1)'; this.style.borderColor='rgba(46, 139, 87, 0.5)'; this.style.boxShadow='0 16px 48px rgba(0, 0, 0, 0.2)'; this.querySelector('.stat-number').style.color='#ffffff'; this.querySelector('.stat-number').style.transform='scale(1.15)'; this.querySelector('.stat-label').style.color='rgba(255, 255, 255, 0.95)'" onmouseout="this.style.transform='translateY(0px)'; this.style.background='rgba(255,255,255,0.06)'; this.style.borderColor='rgba(255,255,255,0.12)'; this.style.boxShadow='0 4px 16px rgba(0, 0, 0, 0.1)'; this.querySelector('.stat-number').style.color='#2E8B57'; this.querySelector('.stat-number').style.transform='scale(1)'; this.querySelector('.stat-label').style.color='rgba(255, 255, 255, 0.8)'">
-            <div class="stat-number" style="font-size: 3rem; font-weight: 900; color: #2E8B57; margin-bottom: 1rem; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">6</div>
+            <div class="stat-number" style="font-size: 3rem; font-weight: 900; color: #2E8B57; margin-bottom: 1rem; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">4</div>
             <div class="stat-label" style="color: rgba(255,255,255,0.8); font-size: 1rem; font-weight: 600; line-height: 1.4;">{T('stat_team_members')}<br><span style="font-size: 0.875rem; font-weight: 400; opacity: 0.9;">{T('stat_team_subtitle')}</span></div>
         </div>
     </div>
@@ -913,7 +913,7 @@ st.markdown(f"""
         </p>
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
             <div class="stat-box">
-                <div class="stat-number">6</div>
+                <div class="stat-number">4</div>
                 <div class="stat-label">{T('stat_team_members')}</div>
             </div>
             <div class="stat-box">
