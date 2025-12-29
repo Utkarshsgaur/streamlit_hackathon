@@ -1,7 +1,7 @@
 """
-Hydro-Assess - Smart India Hackathon 2025
+Hydro-Assess - GDG 2025
 A water management assessment tool for rainwater harvesting
-Built by Team Aether Spark for SIH 2025
+Built by Team Aether Spark for GDG 2025
 """
 
 import streamlit as st
