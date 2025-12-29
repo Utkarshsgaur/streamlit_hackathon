@@ -6,7 +6,7 @@ Supports English (en) and Hindi (hi) languages
 translations = {
     'en': {
         # Page Configuration
-        'page_title_index': 'Hydro-Assess | Smart India Hackathon 2025',
+        'page_title_index': 'Hydro-Assess | GDG Hackathon 2025',
         'page_title_map': 'Map Tool',
         'page_title_calc': 'Hydro-Assess | Intelligent Recommendation Engine',
         
@@ -31,7 +31,7 @@ translations = {
         
         # Statistics - Additional entries for About section stat boxes (lines 594-595 in index.py) need these keys to be defined in locales.py for proper translation support across all languages
         'stat_sih_year': '2025',
-        'stat_year_2025': 'Smart India Hackathon 2025',
+        'stat_year_2025': 'GDG Hackathon 2025',
         'stat_api_integrations': 'API Integrations',
         'stat_api_subtitle': 'ISRIC SoilGrids & Open-Meteo',
         'stat_system_types': 'System Types',
@@ -45,7 +45,7 @@ translations = {
         
         # About Section
         'about_title': 'About Team Aether Spark',
-        'about_description_1': 'We are Team Aether Spark, a group of 6 passionate students participating in the Smart India Hackathon 2025.',
+        'about_description_1': 'We are Team Aether Spark, a group of 4 passionate students participating in the GDG Hackathon 2025.',
         'about_description_2': 'Our mission is to create an accessible tool that helps people understand and implement rainwater harvesting effectively.',
         'about_project_desc': 'Our project combines mapping technology, real-world data APIs, and engineering calculations to provide practical rainwater harvesting recommendations.',
         
@@ -99,9 +99,9 @@ translations = {
         'cta_button': '🚀 Begin Assessment',
         
         # Footer
-        'footer_project': 'Smart India Hackathon 2025 Project',
+        'footer_project': 'GDG Hackathon 2025 Project',
         'footer_team': 'Built by Team Aether Spark',
-        'footer_copyright': '© 2025 Team Aether Spark | SIH 2025',
+        'footer_copyright': '© 2025 Team Aether Spark | GDG 2025',
         
         # Map Page
         'map_title': 'Interactive Satellite Map with Area Calculation',
@@ -437,7 +437,7 @@ translations = {
     },
     'hi': {
         # Page Configuration
-        'page_title_index': 'हाइड्रो-असेस | स्मार्ट इंडिया हैकाथॉन 2025',
+        'page_title_index': 'हाइड्रो-असेस | जीडीजीा हैकाथॉन 2025',
         'page_title_map': 'मानचित्र उपकरण',
         'page_title_calc': 'हाइड्रो-असेस | बुद्धिमान सिफारिश इंजन',
         
@@ -462,7 +462,7 @@ translations = {
         
         # Statistics - Additional entries for About section stat boxes (lines 594-595 in index.py) need these keys to be defined in locales.py for proper translation support across all languages
         'stat_sih_year': '2025',
-        'stat_year_2025': 'स्मार्ट इंडिया हैकाथॉन 2025',
+        'stat_year_2025': 'जीडीजीा हैकाथॉन 2025',
         'stat_api_integrations': 'API एकीकरण',
         'stat_api_subtitle': 'ISRIC SoilGrids और Open-Meteo',
         'stat_system_types': 'सिस्टम प्रकार',
@@ -478,7 +478,7 @@ translations = {
         
         # About Section
         'about_title': 'टीम एथर स्पार्क के बारे में',
-        'about_description_1': 'हम टीम एथर स्पार्क हैं, स्मार्ट इंडिया हैकाथॉन 2025 में भाग लेने वाले 6 उत्साही छात्रों का एक समूह।',
+        'about_description_1': 'हम टीम एथर स्पार्क हैं, जीडीजीा हैकाथॉन 2025 में भाग लेने वाले 4 उत्साही छात्रों का एक समूह।',
         'about_description_2': 'हमारा मिशन एक सुलभ उपकरण बनाना है जो लोगों को वर्षा जल संचयन को प्रभावी ढंग से समझने और लागू करने में मदद करता है।',
         'about_project_desc': 'हमारी परियोजना व्यावहारिक वर्षा जल संचयन सिफारिशें प्रदान करने के लिए मैपिंग तकनीक, वास्तविक डेटा API और इंजीनियरिंग गणनाओं को जोड़ती है।',
         
@@ -532,9 +532,9 @@ translations = {
         'cta_button': '🚀 मूल्यांकन शुरू करें',
         
         # Footer
-        'footer_project': 'स्मार्ट इंडिया हैकाथॉन 2025 परियोजना',
+        'footer_project': 'जीडीजी हैकाथॉन 2025 परियोजना',
         'footer_team': 'टीम एथर स्पार्क द्वारा निर्मित',
-        'footer_copyright': '© 2025 टीम एथर स्पार्क | SIH 2025',
+        'footer_copyright': '© 2025 टीम एथर स्पार्क | जीडीजी 2025',
         # City Classification Options
         'calc_city_tier1': 'टियर 1 (मेट्रो - उच्च घनत्व)',
         'calc_city_tier2': 'टियर 2 और 3 (निम्न घनत्व)',
